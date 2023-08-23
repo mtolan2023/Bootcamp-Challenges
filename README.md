@@ -1,5 +1,7 @@
-# Module 1 Challenge -Excel- Crowdfunding Analysis
+# Module 1 Challenge 
 
-Data Visualization Challenge #1
+-Excel- Crowdfunding Analysis
+
+Data Visualization 
 
 Pivot Tables and Charts based on Crowdfunding dataset 
